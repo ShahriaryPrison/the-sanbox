@@ -38,4 +38,4 @@ Whenever you complete a learning project, you will push it to this repository so
 *Add your name below following the format of the example.*
 
 * **[Your Name]** | [Your Focus, e.g., Next.js, API, System Architecture] | [One sentence about what you are excited to build or learn].
-* **Moshir** | Founder & Tech Lead | Composing scalable infrastructure and building premium, high-performance products.
+* **Mohammad Shirvani** | Founder & Tech Lead | Composing scalable infrastructure and building premium, high-performance products.
