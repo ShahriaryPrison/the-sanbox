@@ -19,7 +19,7 @@ Before you touch any real product repositories, you must prove you understand ou
 ## Mission 2: Learn by Building (The Mini-Project Strategy)
 At Heysam, we do not code blind, and we do not passively watch tutorials. If you encounter a complex concept, architecture, or tool that you do not fully understand, you must execute a "Mini-Project."
 
-A mini-project is an isolated, throwaway app or script designed to teach you exactly how a mechanism works before you try to integrate it into our real products (like Avval or Strite).
+A mini-project is an isolated, throwaway app or script designed to teach you exactly how a mechanism works before you try to integrate it into our real products.
 
 ### How to Submit a Mini-Project
 Whenever you complete a learning project, you will push it to this repository so the rest of the team can learn from it.
