@@ -43,3 +43,4 @@ Whenever you complete a learning project, you will push it to this repository so
 - **Mohammad Shirvani** | Founder & Tech Lead | Composing scalable infrastructure and building premium, high-performance products.
 - **MohammadMahdi Gharagoozlo** | Designer & Future Entrepreneur | Passionate about creating beautiful, user-centered digital experiences and building products that solve real problems.
 - **Amirali pourahmadi** |front designer|passinate about lerning rigrads to build products.
+  sorry ti bother you im just trying to undrestand how to use git;
