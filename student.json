@@ -22,7 +22,8 @@
       "address": {
         "city": "qom",
         "nehibor": "shrini"
-      }
+      },
+      "father": null
     }
   }
 }

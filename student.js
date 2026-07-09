@@ -5,3 +5,4 @@ fetch("student.json")
     console.log(student2.name);
     console.log(student2.languges);
   });
+console.log(hello);
