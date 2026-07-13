@@ -8,3 +8,4 @@ fetch(
     console.log(data.current_weather.weathercode);
     console.log(data.current_weather.time);
   });
+//there is the weather
