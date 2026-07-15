@@ -1,0 +1,29 @@
+{
+  "eleventh grade": {
+    "student1": {
+      "id": 1,
+      "information": true,
+      "name": "ali",
+      "occupation": "programmer",
+      "age": 17,
+      "have failed ?": true,
+      "have passed ?": false,
+      "languges": ["french", "english", "italian"]
+    },
+    "student2": {
+      "id": 2,
+      "information": true,
+      "name": "ali",
+      "occupation": "programmer",
+      "age": 17,
+      "have failed ?": true,
+      "have passed ?": false,
+      "languges": ["french", "english", "italian"],
+      "address": {
+        "city": "qom",
+        "nehibor": "shrini"
+      },
+      "father": null
+    }
+  }
+}
